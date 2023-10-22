@@ -21,19 +21,3 @@ pnpm-debug.log*
 *.njsproj
 *.sln
 *.sw?
-
-# Node.js
-/node_modules
-npm-debug.log
-
-# Vue.js
-/dist
-/.env.local
-/.env.development.local
-/.env.test.local
-/.env.production.local
-
-# Editor directories and files
-.vscode/
-.idea/
-.editorconfig
